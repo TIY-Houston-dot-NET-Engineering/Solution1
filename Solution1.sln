@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B083AE2-9532-423C-B626-F501CE9A0E71}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		shadrack.html = shadrack.html
 	EndProjectSection
 EndProject
 Global
